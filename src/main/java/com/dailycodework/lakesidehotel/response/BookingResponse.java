@@ -1,4 +1,4 @@
-package com.dailycodework.lakesidehotelserver.response;
+package com.dailycodework.lakesidehotel.response;
 
 
 
